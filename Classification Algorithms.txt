@@ -1,0 +1,233 @@
+9.Classification Algorithms
+Classification algorithms are fundamental machine learning techniques used to categorize data into predefined classes or categories based on input features. Coursera's Classification Algorithms catalogue teaches you the core principles of binary and multiclass classification, including popular algorithms like logistic regression, support vector machines, and k-nearest neighbors. You'll learn to implement these algorithms using Java-based tools such as Weka, Smile, and Tribuo, and apply them to real-world problems like email spam detection, fraud identification, and medical diagnosis. By mastering classification algorithms, you'll be equipped to develop intelligent systems that can make accurate predictions and decisions across various industries, enhancing your capabilities as a data scientist or machine learning engineer.
+
+
+
+Northeastern University
+
+Machine Learning and Data Analytics Part 1
+Course
+
+
+Microsoft
+
+Microsoft Azure Machine Learning
+Course
+
+
+Google Cloud
+
+Predict Visitor Purchases with a Classification Model in BQML
+Course
+
+
+University of Illinois Urbana-Champaign
+
+Data Analytics Foundations for Accountancy II
+Course
+
+
+Illinois Tech
+
+Predictive Analytics
+Course
+
+
+EDUCBA
+
+Advanced Machine Learning with R: Apply & Predict
+Course
+
+
+Microsoft
+
+Microsoft Azure Machine Learning for Data Scientists
+Course
+
+
+Corporate Finance Institute
+
+Data Science & Machine Learning Fundamentals
+Course
+
+
+Yonsei University
+
+Hands-on Text Mining and Analytics
+Course
+
+
+Whizlabs
+
+AWS: Machine Learning & MLOps Foundations
+Course
+
+
+University of Michigan
+
+Applied Machine Learning in Python
+Course
+
+
+IBM
+
+Machine Learning Introduction for Everyone
+Course
+
+
+MathWorks
+
+Data Science Companion
+Course
+
+
+University of Michigan
+
+Introduction to Machine Learning in Sports Analytics
+Course
+
+
+Packt
+
+RNN Architecture and Sentiment Classification
+Course
+
+
+Coursera
+
+Machine Learning Pipelines with Azure ML Studio
+Guided Project
+
+
+University of Colorado Boulder
+
+Predicting Extreme Climate Behavior with Machine Learning
+Course
+
+
+SAS
+
+Machine Learning Using SAS Viya
+Course
+
+
+Dartmouth College
+
+Machine Learning Fundamentals
+Course
+
+
+Packt
+
+NumPy, Matplotlib & Pandas – Data Science Prerequisites
+Course
+
+
+H2O.ai
+
+DataPrep for H2O Driverless AI
+Course
+
+
+University of California, Irvine
+
+Predictive Modeling, Model Fitting, and Regression Analysis
+Course
+
+
+Coursera
+
+Auto Machine Learning (AutoML) Using AutoGluon
+Guided Project
+
+
+University of Colorado Boulder
+
+Statistical Learning for Data Science
+Specialization (3 Courses)
+
+
+Packt
+
+Exploratory Data Analysis & Core ML Algorithms
+Course
+
+
+Coursera
+
+Scikit-Learn For Machine Learning Classification Problems
+Guided Project
+
+
+Whizlabs
+
+ML Algorithms
+Course
+
+
+IBM
+
+Introduction to Computer Vision and Image Processing
+Course
+
+
+MathWorks
+
+Machine Learning for Computer Vision
+Course
+
+
+Board Infinity
+
+Machine Learning with Implementation in Java
+Course
+
+
+EDUCBA
+
+R: Design & Evaluate Random Forests for Attrition
+Course
+
+48
+
+)
+
+
+Coursera
+
+Basic Image Classification with TensorFlow
+Guided Project
+
+
+Coursera
+
+Facial Expression Recognition with PyTorch
+Guided Project
+
+
+Packt
+
+Deep Learning: Recurrent Neural Networks with Python
+Specialization (3 Courses)
+
+
+Multiple educators
+
+Remote Sensing Image Acquisition, Analysis and Applications
+Course
+
+
+University of Colorado Boulder
+
+Data Analysis with Python Project
+Course
+
+
+Corporate Finance Institute
+
+Practical Data Science for Data Analysts
+Specialization (5 Courses)
+
+48
+
+
