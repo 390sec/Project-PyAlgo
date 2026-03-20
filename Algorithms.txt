@@ -1,0 +1,708 @@
+Algorithms
+
+
+8.Algorithms
+
+Algorithms are a set of detailed instructions or rules designed to achieve a specific outcome or solve a particular problem, often within the realm of computer programming. Coursera's algorithm catalogue guides you in understanding, constructing, and applying algorithms effectively. You'll learn about algorithmic paradigms like divide and conquer, dynamic programming, and greedy algorithms, as well as data structures that support these algorithms. Additionally, you will understand the principles of algorithm complexity, allowing you to create more efficient and effective algorithms. This knowledge will be beneficial whether you're a budding programmer, a seasoned software engineer, or someone interested in enhancing their problem-solving skills in the digital landscape.
+
+
+
+University of Illinois Urbana-Champaign
+
+Understanding AI Algorithms and Their Components
+Watch now
+
+·
+
+8.1k views
+
+Video · 4 minutes
+
+
+Multiple educators
+
+Introduction to Battery Management Systems
+Watch now
+
+·
+
+28.9k views
+
+Video · 26 minutes
+
+
+University of Washington
+
+Finding Maximums and Minimums with Hill-Climbing
+Watch now
+
+·
+
+45.7k views
+
+Video · 7 minutes
+
+
+Packt
+
+Introduction to Data Structures and Algorithms
+Watch now
+
+·
+
+2.5k views
+
+Video · 3 minutes
+
+
+Pearson
+
+Training Machine Learning Models with Python
+Watch now
+
+·
+
+48 views
+
+Video · 10 minutes
+
+
+Lund University
+
+Understanding Bias in AI Systems
+Watch now
+
+·
+
+11.7k views
+
+Video · 7 minutes
+
+
+University of California San Diego
+
+Developing Problem Solving Skills with Arrays
+Watch now
+
+·
+
+251 views
+
+Video · 6 minutes
+
+
+Microsoft
+
+Optimizing Data Structures and Algorithms
+Watch now
+
+·
+
+3.6k views
+
+Video · 2 minutes
+
+
+Packt
+
+Introduction to Algorithms and Data Structures
+Watch now
+
+·
+
+61 views
+
+Video · 7 minutes
+
+
+Multiple educators
+
+Introduction to Battery Management Algorithms
+Watch now
+
+·
+
+37.6k views
+
+Video · 11 minutes
+
+
+University of California San Diego
+
+Introduction to Searching Algorithms
+Watch now
+
+·
+
+149 views
+
+Video · 9 minutes
+
+
+University of Colorado Boulder
+
+Fundamentals of Quantum Computing
+Watch now
+
+·
+
+2k views
+
+Video · 42 minutes
+
+Recommendations based on your current skill level
+Improve your skills with any one of these recommendations.
+
+1 active filter(s)
+
+
+Northeastern University
+
+Program Structure and Algorithms Part 1
+Course
+
+
+Packt
+
+Advanced Data Structures and Algorithms
+Course
+
+
+Duke University
+
+Programming Fundamentals
+Course
+
+
+Amazon
+
+Data Structures and Algorithms
+Course
+
+
+Scrimba
+
+Algorithm Interview Practice for Junior Developers
+Course
+
+
+Packt
+
+Interview Questions and Real-World Applications
+Course
+
+
+University of Toronto
+
+Learn to Program: Crafting Quality Code
+Course
+
+
+Microsoft
+
+Data Structures and Algorithms
+Course
+
+Explore other popular skills related to Algorithms
+Data Structures
+Software Architecture
+Cryptography
+Systems Design
+
+EDUCBA
+
+Python Fundamentals: Apply Data Structures
+Course
+
+
+Duke University
+
+Understand Big O Notation in Python
+Guided Project
+
+
+University of Colorado Boulder
+
+Trees and Graphs: Basics
+Course
+
+
+University of Colorado Boulder
+
+Advanced Data Structures, RSA and Quantum Algorithms
+Course
+
+
+Packt
+
+Quantum Computing with Qiskit and Advanced Algorithms
+Course
+
+
+28DIGITAL
+
+Geometric Algorithms
+Course
+
+
+Duke University
+
+Java Programming: Solving Problems with Software
+Course
+
+
+Packt
+
+JavaScript Mastery – Zero to Hero for Interviews
+Specialization (3 Courses)
+
+
+Princeton University
+
+Algorithms, Part II
+Course
+
+
+Codio
+
+Java: Data Structures and Algorithms
+Specialization (3 Courses)
+
+
+Rice University
+
+Principles of Computing (Part 2)
+Course
+
+
+Northeastern University
+
+Data Structures & Algos: Software Development Skills
+Course
+
+
+Codio
+
+C++: Data Structures and Algorithms
+Specialization (3 Courses)
+
+
+Codio
+
+C++: Algorithms
+Course
+
+
+Scrimba
+
+Data Structures and Algorithms: Binary Search
+Course
+
+
+Scrimba
+
+Data Structures and Algorithms: Merge Sort
+Course
+
+
+Birla Institute of Technology & Science, Pilani
+
+Data Structures and Algorithms
+Course
+
+
+Scrimba
+
+JavaScript Algorithms
+Specialization (3 Courses)
+
+
+Meta
+
+Coding Interview Preparation
+Course
+
+
+Clemson University
+
+Design and Analysis of Algorithms
+Course
+
+
+Coursera
+
+Algorithmic Solutions: Design, Problem Solving, Reporting
+Course
+
+
+Packt
+
+Data Structures and Algorithms: The Complete Masterclass
+Specialization (3 Courses)
+
+
+Codio
+
+Java: Algorithms
+Course
+
+
+Northeastern University
+
+Program Structure and Algorithms Part 2
+Course
+
+
+Packt
+
+The Complete Quantum Computing Course for Beginners
+Specialization (3 Courses)
+
+
+University of California San Diego
+
+Teaching Impacts of Technology: Relationships
+Course
+
+
+École normale supérieure
+
+Approximation Algorithms Part II
+Course
+
+
+University of Colorado System
+
+Simulation, Algorithm Analysis, and Pointers
+Course
+
+
+University of Pennsylvania
+
+Artificial Intelligence Essentials
+Course
+
+
+28DIGITAL
+
+Approximation Algorithms
+Course
+
+
+Johns Hopkins University
+
+Exploring Algorithmic Bias as a Policy Issue: A Teach-Out
+Course
+
+
+University of Colorado Boulder
+
+Data Mining Methods
+Course
+
+
+University of Illinois Urbana-Champaign
+
+Cloud Computing Concepts: Part 2
+Course
+
+
+École normale supérieure
+
+Approximation Algorithms Part I
+Course
+
+
+28DIGITAL
+
+I/O-efficient algorithms
+Course
+
+
+Fred Hutchinson Cancer Center
+
+Practical Steps for Building Fair AI Algorithms
+Course
+
+
+University of Leeds
+
+An Introduction to Programming using Python
+Course
+
+
+Packt
+
+Introduction to Procedural Maze Building and Maze Algorithms
+Course
+
+
+Politecnico di Milano
+
+Developing FPGA-accelerated cloud applications with SDAccel: Practice
+Course
+
+48
+
+Page 1 of 2
+
+Don’t feel like these recommendations are right for you?
+Take a LevelSet assessment to check your current skill level
+
+
+
+
+
+Foundation for Excellence
+Search Coursera for Coursera New performers 2025-26-4th Feb 2026
+Algorithms
+Algorithms
+Algorithms are a set of detailed instructions or rules designed to achieve a specific outcome or solve a particular problem, often within the realm of computer programming. Coursera's algorithm catalogue guides you in understanding, constructing, and applying algorithms effectively. You'll learn about algorithmic paradigms like divide and conquer, dynamic programming, and greedy algorithms, as well as data structures that support these algorithms. Additionally, you will understand the principles of algorithm complexity, allowing you to create more efficient and effective algorithms. This knowledge will be beneficial whether you're a budding programmer, a seasoned software engineer, or someone interested in enhancing their problem-solving skills in the digital landscape.
+
+My Score
+—0
+Take a LevelSet assessment to check your current skill level
+
+Videos about Algorithms recommended for you
+
+University of Illinois Urbana-Champaign
+
+Understanding AI Algorithms and Their Components
+Watch now
+
+·
+
+8.1k views
+
+Video · 4 minutes
+
+
+Multiple educators
+
+Introduction to Battery Management Systems
+Watch now
+
+·
+
+28.9k views
+
+Video · 26 minutes
+
+
+University of Washington
+
+Finding Maximums and Minimums with Hill-Climbing
+Watch now
+
+·
+
+45.7k views
+
+Video · 7 minutes
+
+
+Packt
+
+Introduction to Data Structures and Algorithms
+Watch now
+
+·
+
+2.5k views
+
+Video · 3 minutes
+
+
+Pearson
+
+Training Machine Learning Models with Python
+Watch now
+
+·
+
+48 views
+
+Video · 10 minutes
+
+
+Lund University
+
+Understanding Bias in AI Systems
+Watch now
+
+·
+
+11.7k views
+
+Video · 7 minutes
+
+
+University of California San Diego
+
+Developing Problem Solving Skills with Arrays
+Watch now
+
+·
+
+251 views
+
+Video · 6 minutes
+
+
+Microsoft
+
+Optimizing Data Structures and Algorithms
+Watch now
+
+·
+
+3.6k views
+
+Video · 2 minutes
+
+
+Packt
+
+Introduction to Algorithms and Data Structures
+Watch now
+
+·
+
+61 views
+
+Video · 7 minutes
+
+
+Multiple educators
+
+Introduction to Battery Management Algorithms
+Watch now
+
+·
+
+37.6k views
+
+Video · 11 minutes
+
+Recommendations based on your current skill level
+Improve your skills with any one of these recommendations.
+
+1 active filter(s)
+
+
+Coursera
+
+Solve Tree Problems with Java Recursion
+Course
+
+
+EDUCBA
+
+Python Basics: Learn, Apply & Build Programs
+Course
+
+
+Coursera
+
+Process Map Data using C++ Adjacency List Shortest Path
+Guided Project
+
+
+University of California San Diego
+
+Finding Hidden Messages in DNA (Bioinformatics I)
+Course
+
+
+Coursera
+
+Systematic ML Optimization
+Specialization (9 Courses)
+
+Explore other popular skills related to Algorithms
+Data Structures
+Software Architecture
+Cryptography
+Systems Design
+
+Lund University
+
+Artificial Intelligence: Ethics & Societal Challenges
+Course
+
+
+University of Leeds
+
+Introduction to Technology-Assisted Decision-Making
+Course
+
+
+Simplilearn
+
+GenAI for Code Migration Tasks Training
+Course
+
+
+Packt
+
+Advanced Game Math - Affine Transformations
+Course
+
+
+Packt
+
+Procedural Maze Building - Unity 6 and Blender Compatible
+Course
+
+
+Packt
+
+Computer Vision: Face Recognition Quick Starter in Python
+Course
+
+
+Codio
+
+C++: Non-Linear Data Structures
+Course
+
+
+Packt
+
+Foundations of Data Structures and Algorithm Analysis
+Course
+
+
+Princeton University
+
+Algorithms, Part I
+Course
+
+
+Vanderbilt University
+
+MATLAB Programming for Engineers and Scientists
+Specialization (3 Courses)
+
+
+Vanderbilt University
+
+Mastering Programming with MATLAB
+Course
+
+48
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
