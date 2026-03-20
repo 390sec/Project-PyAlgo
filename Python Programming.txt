@@ -1,0 +1,772 @@
+This is for to course understaning of those python courses so that we will get to know clealry what does that is teaching to us.
+
+
+
+Python Programming
+Python Programming
+Python is a high-level, interpreted, and general-purpose dynamic programming language that focuses on code readability. Coursera's Python Programming catalogue teaches you how to use Python effectively, from its syntax to its standard libraries. You'll learn to write clean and efficient code, develop real-world applications, perform data analysis, and create machine learning algorithms using Python. This skill will equip you with the ability to master backend development, automation, data science, artificial intelligence and more. Discover the power of Python and its vital role in today's technology landscape.
+
+
+University of Washington
+
+Creating Functions in Python
+Watch now
+
+·
+
+144.3k views
+
+Video · 4 minutes
+
+
+University of Washington
+
+Introduction to Python Variables and Data Types
+Watch now
+
+·
+
+138.8k views
+
+Video · 7 minutes
+
+
+University of Washington
+
+Introduction to Conditional Statements and Loops
+Watch now
+
+·
+
+137.2k views
+
+Video · 8 minutes
+
+
+Amazon Web Services
+
+Introduction to Python Programming Basics
+Watch now
+
+·
+
+12.6k views
+
+Video · 5 minutes
+
+
+Amazon Web Services
+
+Getting Started with Python Programming
+Watch now
+
+·
+
+13.4k views
+
+Video · 5 minutes
+
+
+IBM
+
+Understanding Functions in Python
+Watch now
+
+·
+
+1200.9k views
+
+Video · 14 minutes
+
+
+Google
+
+Introduction to Python Programming Concepts
+Watch now
+
+·
+
+926.3k views
+
+Video · 3 minutes
+
+
+Google
+
+Introduction to Python Programming
+Watch now
+
+·
+
+960.1k views
+
+Video · 4 minutes
+
+
+Google
+
+Introduction to Google Colab Notebooks
+Watch now
+
+·
+
+479.3k views
+
+Video · 2 minutes
+
+
+Amazon Web Services
+
+Understanding Lists and Dictionaries in Python
+Watch now
+
+·
+
+13k views
+
+Video · 7 minutes
+
+
+Amazon Web Services
+
+Understanding Conditionals in Python
+Watch now
+
+·
+
+13.3k views
+
+Video · 9 minutes
+
+
+Amazon Web Services
+
+Introduction to Python Functions
+Watch now
+
+·
+
+13.2k views
+
+Video · 9 minutes
+
+Recommendations based on your current skill level
+Improve your skills with any one of these recommendations.
+
+1 active filter(s)
+
+
+Simplilearn
+
+Data Analytics with Python
+Course
+
+
+EDUCBA
+
+Mastering Python Programming: Apply, Analyze, and Build
+Course
+
+
+Northeastern University
+
+Basic Programming in Python I
+Course
+
+
+Howard University
+
+Capstone: Data Science Problem in Linear Algebra Framework
+Course
+
+
+EDUCBA
+
+Python Fundamentals: Apply Data Structures
+Course
+
+
+Duke University
+
+Python Generators
+Guided Project
+
+
+Akamai Technologies, Inc.
+
+Python Scripting Fundamentals
+Course
+
+
+Scrimba
+
+Learn Python
+Specialization (3 Courses)
+
+Explore other popular skills related to Python Programming
+SQL
+Java Programming
+Javascript
+C and C++
+
+LearnQuest
+
+Developing AI Applications on Azure
+Course
+
+
+Northeastern University
+
+Information Systems Foundations
+Specialization (4 Courses)
+
+
+Simplilearn
+
+Python Programming Essentials Training
+Course
+
+
+EDUCBA
+
+Developing and Deploying Web Applications with Python
+Course
+
+
+Ball State University
+
+Introduction to Programming
+Course
+
+
+Coursera
+
+Python Scripting for DevOps
+Guided Project
+
+
+Coursera
+
+Introduction to Python
+Guided Project
+
+
+University of Pennsylvania
+
+Introduction to Python Programming
+Course
+
+
+University of Pennsylvania
+
+Introduction to Programming with Python and Java
+Specialization (4 Courses)
+
+
+Arizona State University
+
+Introduction to Python
+Course
+
+
+Google
+
+Introduction to Data Analysis Using Python
+Course
+
+
+IBM
+
+Developing AI Applications with Python and Flask
+Course
+
+
+Amazon Web Services
+
+Python for Serverless Applications and Automation on AWS
+Course
+
+
+Fractal Analytics
+
+Fractal Data Science
+Professional Certificate
+
+
+EDUCBA
+
+Python Developer: From Basics to Case Studies
+Specialization (6 Courses)
+
+
+EDUCBA
+
+Python Mastery: Core Concepts, Data Structures & OOP
+Specialization (4 Courses)
+
+
+Coursera
+
+Python for Data Science (and Version Control with GitHub)
+Course
+
+
+University of Toronto
+
+Learn to Program: Crafting Quality Code
+Course
+
+
+Packt
+
+Foundations of ML & Python for Data Science
+Course
+
+
+Red Hat
+
+Python Programming with Red Hat
+Course
+
+
+Board Infinity
+
+Dive Deep into Python
+Course
+
+
+JetBrains
+
+Python from Scratch: Learn by Coding
+Course
+
+
+Arizona State University
+
+Python: A Guided Journey from Introduction to Application
+Specialization (4 Courses)
+
+
+Packt
+
+Python 3 from Beginner to Expert - Learn Python from Scratch
+Specialization (3 Courses)
+
+
+Coursera
+
+Python Development with ChatGPT: Fullstack App Development
+Guided Project
+
+
+Pearson
+
+Skill Up with Python: Web Development Recipes
+Course
+
+
+LearnQuest
+
+Python Scripting for DevOps
+Specialization (4 Courses)
+
+
+University of Leeds
+
+An Introduction to Programming using Python
+Course
+
+
+University of California, Davis
+
+Python Basics: Automation and Bots
+Course
+
+48
+
+
+Videos about Python Programming recommended for you
+
+University of Washington
+
+Creating Functions in Python
+Watch now
+
+
+
+University of Washington
+
+Introduction to Python Variables and Data Types
+Watch now
+
+·
+
+138.8k views
+
+Video · 7 minutes
+
+
+University of Washington
+
+Introduction to Conditional Statements and Loops
+Watch now
+
+·
+
+137.2k views
+
+Video · 8 minutes
+
+
+Amazon Web Services
+
+Introduction to Python Programming Basics
+Watch now
+
+·
+
+12.6k views
+
+Video · 5 minutes
+
+
+Amazon Web Services
+
+Getting Started with Python Programming
+Watch now
+
+·
+
+13.4k views
+
+Video · 5 minutes
+
+
+IBM
+
+Understanding Functions in Python
+Watch now
+
+·
+
+1200.9k views
+
+Video · 14 minutes
+
+
+Google
+
+Introduction to Python Programming Concepts
+Watch now
+
+·
+
+926.3k views
+
+Video · 3 minutes
+
+
+Google
+
+Introduction to Python Programming
+Watch now
+
+·
+
+960.1k views
+
+Video · 4 minutes
+
+
+Google
+
+Introduction to Google Colab Notebooks
+Watch now
+
+·
+
+479.3k views
+
+Video · 2 minutes
+
+
+Amazon Web Services
+
+Understanding Lists and Dictionaries in Python
+Watch now
+
+·
+
+13k views
+
+Video · 7 minutes
+
+
+Amazon Web Services
+
+Understanding Conditionals in Python
+Watch now
+
+·
+
+13.3k views
+
+Video · 9 minutes
+
+
+Amazon Web Services
+
+Introduction to Python Functions
+Watch now
+
+·
+
+13.2k views
+
+Video · 9 minutes
+
+Recommendations based on your current skill level
+Improve your skills with any one of these recommendations.
+
+1 active filter(s)
+
+
+Rice University
+
+Python Data Visualization
+Course
+
+
+Packt
+
+Foundations of Data Science and Machine Learning with Python
+Course
+
+
+Meta
+
+Programming in Python
+Course
+
+
+Packt
+
+Fundamentals of AI, Machine Learning, and Python Programming
+Course
+
+
+University of Michigan
+
+Python Fundamentals for Designers
+Course
+
+
+University of Geneva
+
+Simulation and modeling of natural processes
+Course
+
+
+University of Alberta
+
+Problem Solving, Python Programming, and Video Games
+Course
+
+
+University of Michigan
+
+Programming for Designers
+Specialization (3 Courses)
+
+Explore other popular skills related to Python Programming
+SQL
+Java Programming
+Javascript
+C and C++
+
+Pearson
+
+Data Science Fundamentals, Part 1
+Specialization (3 Courses)
+
+
+Coursera
+
+Python Basics: Create a Guessing Number Game from Scratch
+Guided Project
+
+
+EDUCBA
+
+AI with Python: Apply & Implement ML Models
+Course
+
+
+LearnQuest
+
+Introduction to Data Science and scikit-learn in Python
+Course
+
+
+Pearson
+
+Data Science Fundamentals Part 1: Unit 1
+Course
+
+
+Packt
+
+Data Structures Using Python - An Introduction
+Course
+
+
+University of Michigan
+
+Python 3 Programming
+Specialization (5 Courses)
+
+
+Rice University
+
+Python Programming Essentials
+Course
+
+
+University of Toronto
+
+Learn to Program: The Fundamentals
+Course
+
+
+Amazon Web Services
+
+Developing Applications in Python on AWS
+Course
+
+
+Coursera
+
+Clean and analyze social media usage data with Python
+Guided Project
+
+
+Google
+
+Using Python to Interact with the Operating System
+Course
+
+
+University of Michigan
+
+Python Basics
+Course
+
+
+Coursera
+
+Create Your First Python Program From UST
+Guided Project
+
+
+University of Colorado Boulder
+
+BiteSize Python for Absolute Beginners
+Specialization (3 Courses)
+
+
+EDUCBA
+
+Advanced Python: OOP, File Handling & Libraries
+Course
+
+
+EDUCBA
+
+PyQt Training Advanced Level
+Course
+
+
+Duke University
+
+Python Essentials for MLOps
+Course
+
+
+EDUCBA
+
+Python Scripting Training
+Course
+
+
+Arizona State University
+
+Data Analysis and Visualization with Python
+Course
+
+
+Multiple educators
+
+Foundations of Data Science: K-Means Clustering in Python
+Course
+
+
+EDUCBA
+
+Python Scripting Masterclass: From Basics to Real Projects
+Specialization (4 Courses)
+
+
+Google
+
+Google Data Analysis with Python
+Specialization (6 Courses)
+
+
+EDUCBA
+
+Applied Python: Web Dev, Machine Learning & Cryptography
+Specialization (5 Courses)
+
+
+Edureka
+
+Applied Data Analytics with Python and SQL
+Course
+
+
+University of Colorado Boulder
+
+BiteSize Python for Absolute Beginners: Flow Controls
+Course
+
+
+Duke University
+
+Python and Pandas for Data Engineering
+Course
+
+
+Coursera
+
+GenAI For Business Analysis: Fine-Tuning LLMs
+Guided Project
+
+
+Scrimba
+
+Learn Python: 1
+Course
+
+
+Johns Hopkins University
+
+Applied Calculus with Python
+Course
+
+48
+
+
+
+
+
+This is second bundle ! 
