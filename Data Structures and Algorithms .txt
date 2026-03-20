@@ -1,0 +1,212 @@
+Data Structures and Algorithms 
+
+
+Now ,DSA
+
+Data Structures
+Data Structures
+Data Structures are specialized formats for organizing, storing, and manipulating data on a computer. They enable efficient access and modification of data, and are fundamental to designing efficient algorithms. Coursera's data structures catalogue teaches you to understand, design, analyze and implement fundamental data structures like arrays, stacks, queues, linked lists, trees, hash tables, and graphs. You'll learn various operations on these data structures, their time and space complexities, and their applications in real-life problem-solving. Grasp the principles of data abstraction and encapsulation to enhance your computational thinking abilities and become proficient as a software engineer, data scientist, programmer, or as someone aspiring to advance in these spheres.
+
+
+Meta
+
+Coding Interview Preparation
+Course
+
+
+University of California, Santa Cruz
+
+GO Programming for Everyone: Part 2
+Course
+
+
+Duke University
+
+Java Programming: Arrays, Lists, and Structured Data
+Course
+
+
+Packt
+
+Advanced Data Structures and Algorithms
+Course
+
+
+Codio
+
+Java: Algorithms
+Course
+
+Explore other popular skills related to Data Structures
+SQL
+Big Data
+Algorithms
+Software Architecture
+
+EDUCBA
+
+Python Fundamentals: Apply Data Structures
+Course
+
+
+University of Colorado System
+
+Data Structures and Design Patterns for Game Developers
+Course
+
+
+Amazon
+
+Data Structures and Algorithms
+Course
+
+
+Microsoft
+
+Data Structures and Algorithms
+Course
+
+
+Codio
+
+Java: Linear Data Structures and Trees
+Course
+
+
+Scrimba
+
+Learn Python
+Specialization (3 Courses)
+
+
+Scrimba
+
+Learn Python: 1
+Course
+
+
+University of Illinois Urbana-Champaign
+
+Accelerated Computer Science Fundamentals
+Specialization (3 Courses)
+
+
+University of California San Diego
+
+Advanced Data Structures in Java
+Course
+
+
+Codio
+
+C++: Linear Data Structures and Trees
+Course
+
+
+Codio
+
+C++: Data Structures and Algorithms
+Specialization (3 Courses)
+
+
+Codio
+
+C++: Non-Linear Data Structures
+Course
+
+
+University of California San Diego
+
+Data Structures and Performance
+Course
+
+
+Packt
+
+Foundations of Data Structures and Algorithm Analysis
+Course
+
+
+University of California San Diego
+
+Object Oriented Java Programming: Data Structures and Beyond
+Specialization (5 Courses)
+
+
+Multiple educators
+
+Object Oriented Programming in Java
+Specialization (4 Courses)
+
+
+EDUCBA
+
+Python Scripting Training
+Course
+
+
+Arizona State University
+
+Data Analysis and Visualization with Python
+Course
+
+
+University of Illinois Urbana-Champaign
+
+Ordered Data Structures
+Course
+
+48
+
+Page 1 of 2
+
+Foundation for Excellence
+Search Coursera for FFE New performers Coursera 25-26- 5th Feb 2026
+Data Structures
+Data Structures
+Data Structures are specialized formats for organizing, storing, and manipulating data on a computer. They enable efficient access and modification of data, and are fundamental to designing efficient algorithms. Coursera's data structures catalogue teaches you to understand, design, analyze and implement fundamental data structures like arrays, stacks, queues, linked lists, trees, hash tables, and graphs. You'll learn various operations on these data structures, their time and space complexities, and their applications in real-life problem-solving. Grasp the principles of data abstraction and encapsulation to enhance your computational thinking abilities and become proficient as a software engineer, data scientist, programmer, or as someone aspiring to advance in these spheres.
+
+My Score
+—0
+Take a LevelSet assessment to check your current skill level
+
+Recommendations based on your current skill level
+Improve your skills with any one of these recommendations.
+
+1 active filter(s)
+
+
+Coursera
+
+Java Built in Data Structures
+Guided Project
+
+
+Multiple educators
+
+C Programming: Advanced Data Types - 5
+Course
+
+
+Scrimba
+
+Data Structures and Algorithms: Binary Search
+Course
+
+
+Coursera
+
+Data Structures with C: Upgrade a Rocket Display Module
+Guided Project
+
+Explore other popular skills related to Data Structures
+SQL
+Big Data
+Algorithms
+Software Architecture
+48
+
+Page 2 of 2
+
+
+https://www.coursera.org/programs/coursera-25-26-ps0r8/browse?query=data%20structures%20&language=English&productDifficultyLevel=Advanced&productDifficultyLevel=Beginner&productDifficultyLevel=Intermediate&productDifficultyLevel=Mixed&skills=Data%20Structures&topic=Computer%20Science&topic=Data%20Science&topic=Personal%20Development&page=84&sortBy=BEST_MATCH&redirectFromProgramHome=true&source=search
